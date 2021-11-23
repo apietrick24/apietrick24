@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there 👋 
+### Welcome to my GitHub page! Here you can find some of the projects I have worked on in the last few years. A little more about myself:
+
+- 🐐 I'm a Computer Science and Data Science double major at Worcester Polytechnic Institute
+- 🔭 I’m currently looking to get involved with research on Therocial Computer Science or Algorithms
+- 🌱 I'm currently learning more about Natural Language Processing and Machine Learning
+- 📫 How to reach me: ajpietrick@wpi.edu
+- 😄 Pronouns: he/him/his
 
 <!--
 **apietrick24/apietrick24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
