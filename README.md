@@ -5,7 +5,7 @@
 - 📊 I enjoy working with topics such as Algorithm Development, Data-Driven Decision Making and Data Analysis
 - 📑 I've contributed to research on [Fair Learning to Rank Models](https://ieeexplore.ieee.org/document/10002233) and [Passive Depression Screening Using Physiological Data](https://ieeexplore.ieee.org/document/10534952)
 - 🌱 I'm currently learning more about Information Retrieval, Generative Artificial Intelligence, and Deep Learning
-- 📫 How to reach me: ajpietrick@wpi.edu
+- 📫 How to reach me: alex@pietrick.com
 - 😄 Pronouns: he/him/his
 
 
